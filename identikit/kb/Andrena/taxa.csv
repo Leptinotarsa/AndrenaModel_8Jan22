@@ -1,0 +1,10 @@
+﻿Taxon,T2HairBands,T2Surface,T2Pits,AbdColor,PygidialPlate,Length,AntFlag,Clypeus,ClypeusMid,LabralProcess,Malar,FoveaDist,Vertex,Subgenus,ThoraxHair,Corbicula,PropTri,Wingr
+A. astragali,Complete,Granular,Absent | 1to3 | 3to6,Dark,Present,[9-14],Long,Dull | ShinyDull,Absent,Emarginate | Bidentate,Xshort | short,One | More,Less | More,Euandrena,Pale,Incomplete,None | Some,Long
+A. auricoma,Complete | Interrupted,,,Dark,Present | Absent,[7-11],Long,Dull,,Emarginate | Entire,,Less,Less,Euandrena,Pale | Orange,Incomplete,None,
+A. chlorogaster,Interrupted,Granular,Absent,Dark | FaintMetallic,Absent,[5-9],Short,Dull,Absent,Emarginate | Entire,Short | Moderate,Less,Less,Micrandrena,Pale,Incomplete,None | Some,Short
+A. nigrihirta,Absent,Granular,Absent | 1to3 | 3to6,Dark,Present | Absent,[9-12],Long,Dull | ShinyDull,Absent | Present,Emarginate | Entire,Short | Moderate,One | More | Less,,Euandrena,PaleDark,Incomplete | Incomplete,None | Some,Long
+A. nivalis,Interrupted | Absent,Granular | Smooth,Absent | 1to3,Dark,Absent,[10-16],Long | Short,Dull | ShinyDull,Present,Emarginate | Entire,Moderate | Long,More,More,Melandrena,Pale | PaleDark,Incomplete | Incomplete,None | Some,Long
+A. nubecula,Complete,Granular,Absent,Dark,Present | Absent,[6-10],Long | Short,Dull,Absent,Emarginate | Entire | Bidentate,Xshort | short,One | More,,Cnemidandrena,Pale,Incomplete | Incomplete,None | Some,Long
+A. orthocarpi,Interrupted,,Absent,Dark,Absent,[6-9],Long,,,,,One,One,Simandrena,Pale | DarkPale,Complete,None | Some,
+A. prunorum,Complete | Interrupted,Smooth,LessThanOne,Dark | Red,Present,[10-15],Long,Dull | ShinyDull,Present,Emarginate | Entire,Short | Moderate,One | More | Less,,Plastandrena,Pale,Incomplete,All,Long
+,,,,,,,,,,,,,,,,,,
