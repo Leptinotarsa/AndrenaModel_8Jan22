@@ -1,7 +1,7 @@
 ﻿Key,Type,Mandatory,Value,Date,Notes,,,,,,0
 #Main metadata about the key (e.g. for citing the key),,,,,,,,,,,
-title,metadata,yes,Identikit key: Select Andrena Examples,,,,,,,,
-year,metadata,yes,2022,,,,,,,,
+title,metadata,yes,Andrena subgenera of the Pacific Northwest,,,,,,,,
+year,metadata,yes,2023,,,,,,,,
 authors,metadata,yes,David Cappaert,,,,,,,,
 publisher,metadata,no,Draft - DiscoverLife Expt,,,,,,,,
 location,metadata,no,"Corvallis, OR",,,,,,,,
