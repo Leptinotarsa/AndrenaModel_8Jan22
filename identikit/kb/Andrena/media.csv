@@ -1,4 +1,4 @@
-URI+B1:J120,SmallURI,LargeURI,ImageWidth,Type,Priority,Caption,Taxon,Character,State,UseFor,TipStyle
+URI,SmallURI,LargeURI,ImageWidth,Type,Priority,Caption,Taxon,Character,State,UseFor,TipStyle
 # Taxon plastrandena,,,,,,,,,,,
 resources/text/plastandrena.html,,,100%,html-local,,,Plastandrena,,,,
 https://photos.smugmug.com/Discover-Life-Uploads/Andsrena-PNW-traits/i-HTzhd6f/1/bedcb728/X5/Andrena%2Clegs%2Cspur%2Cprunorum-X5.jpg,,,100%,image-web,,"Wide base, bent tibial spur of A. prunorum",Plastandrena,Spurs,,,
