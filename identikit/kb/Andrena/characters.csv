@@ -19,7 +19,7 @@ head,Head_dimensions,Head dimensions,Vertical: bottom of clypeus to median ocell
 head,Galea_shape,Galea shape,,,key,text,multi,,4,
 head,Labral_length,Labral process length,Compare to labrum length,,key,text,multi,,4,
 head,Labral_margin,Labral process margin,Shape of the prominence visible beneath the clypeus,,key,text,multi,,5,
-head,Malar,Malar space,Malar space  - between rtim of eye and base of mandible,,key,text,multi,,6,
+head,Malar,Malar space,Malar space  - between rim of eye and base of mandible,,key,text,multi,,6,
 head,Mandible_apex,Teeth on mandible apex,Only tridentate for  Daysandrena and Euandrena,,key,text,multi,,4,
 head,Mandible_lamella,Lamella on base of mandible,,,key,text,multi,,4,
 head,Maxpalp_length,Maxilary palp length,Compared to galea,,key,text,multi,,4,
