@@ -1,6 +1,6 @@
 ﻿Key,Type,Mandatory,Value,Date,Notes,,,,,,0
 #Main metadata about the key (e.g. for citing the key),,,,,,,,,,,
-#title,metadata,yes,Andrena (female) subgenera of the Pacific Northwest,,,,,,,,
+title,metadata,yes,,,,,,,,,
 year,metadata,yes,2023,,,,,,,,
 authors,metadata,yes,David Cappaert,,,,,,,,
 publisher,metadata,no,Institute of Applied Ecology & Quamash EcoResearch,,,,,,,,
