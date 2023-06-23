@@ -1,6 +1,6 @@
 ﻿Key,Type,Mandatory,Value,Date,Notes,,,,,,0
 #Main metadata about the key (e.g. for citing the key),,,,,,,,,,,
-title,metadata,yes,,,,,,,,,
+title,metadata,yes,"<img src=""http://davidcappaert.weebly.com/uploads/5/7/4/6/57465959/screenshot-2022-12-24-at-21-46-21_1.jpg"" style=""width: 80%;>",,,,,,,,
 year,metadata,yes,2023,,,,,,,,
 authors,metadata,yes,David Cappaert,,,,,,,,
 publisher,metadata,no,Institute of Applied Ecology & Quamash EcoResearch,,,,,,,,
