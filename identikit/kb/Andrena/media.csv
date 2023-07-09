@@ -228,7 +228,7 @@ resources/images/Head_Fovea_width_moderate.jpg,,,100%,image-local,,,,Fovea_width
 resources/images/Head_Head_dimensions_quadrate.jpg,,,100%,image-local,,,,Head_dimensions,quadrate,,
 resources/images/Head_Head_dimensions_broad.jpg,,,100%,image-local,,,,Head_dimensions,broad,,
 #resources/images/Head_Head_dimensions_long.jpg,,,100%,image-local,,,,Head_dimensions,long,,
-resources/images/Head_Galea_shape_normal.jpg,,,100%,image-local,,,,Galea_shape,normal,,
+#resources/images/Head_Galea_shape_normal.jpg,,,100%,image-local,,,,Galea_shape,normal,,
 #resources/images/Head_Galea_shape_spear.jpg,,,100%,image-local,,,,Galea_shape,spear,,
 resources/images/Head_Labral_length_long.jpg,,,100%,image-local,,,,Labral_length,long,,
 resources/images/Head_Labral_length_moderate.jpg,,,100%,image-local,,,,Labral_length,moderate,,
